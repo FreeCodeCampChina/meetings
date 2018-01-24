@@ -1,10 +1,10 @@
 ![FreeCodeCamp logo](/images/FCC-China.jpg)
 
-## Agenda for the February 3th video call of FFC China core technical team
+## Agenda for the February 2th video call of FFC China core technical team
 
 - **Host**: Google Hangouts
-- **Dates**: Saturday February 3th, 2018
-- **Times**: 10:00AM Beijing Time
+- **Dates**: Saturday February 2th, 2018
+- **Times**: 22:00 Beijing Time
 - **Location**: *same Google Hangouts link as before*
 - **Contact**:
     - Name: Jason Yu
@@ -36,9 +36,9 @@ The meeting will be a Google Hangouts call.
 
 ## Pre-meeting content review [PMCR]
 
-PMCR-1. 针对代码库的代码审阅和上线发布流程，我们可以采用部分一致的方式来进行。代码发布流程采用 Forking 工作流的方式进行，代码在被合并到主分支前，代码提交人需要确保该次 PR 至少得到三位团队核心成员的 Approval 确认。代码被合并到主分支后需要在测试环境进行测试后才可以被发布到线上环境。
+**PMCR-1**. 针对代码库的代码审阅和上线发布流程，我们可以采用部分一致的方式来进行。代码发布流程采用 Forking 工作流的方式进行，代码在被合并到主分支前，代码提交人需要确保该次 PR 至少得到三位团队核心成员的 Approval 确认。代码被合并到主分支后需要在测试环境进行测试后才可以被发布到线上环境。
 
-PMCR-2. 可以采取成立"代码发布及审核小组"的方式来进行代码的审阅及发布。生产环境的代码发布需要确保在"北京时间11时"后进行。
+**PMCR-2**. 可以采取成立"代码发布及审核小组"的方式来进行代码的审阅及发布。生产环境的代码发布需要确保在"北京时间11时"后进行。
 ## Agenda items for future meetings
 
 *None*
