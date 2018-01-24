@@ -1,6 +1,6 @@
 ![FreeCodeCamp logo](/images/FCC-China.jpg)
 
-## Agenda for the February 3th video call of FreeCodeCamp China core technical team
+## Agenda for the February 3th video call of FFC China core technical team
 
 - **Host**: Google Hangouts
 - **Dates**: Saturday February 3th, 2018
