@@ -1,6 +1,6 @@
 ![FreeCodeCamp logo](/images/FCC-China.jpg)
 
-## Agenda for the February 2th video call of FFC China core technical team
+## Agenda for the February 5th video call of FCC China core technical team
 
 - **Host**: Google Hangouts
 - **Dates**: Saturday February 5th, 2018
@@ -55,7 +55,7 @@ The meeting will be a Google Hangouts call.
 
 3. 团队分成两个小组：**开发小组**和**翻译小组**。小组成员可重复，保持机动性。
 
-4. 编写用于测试服务器环境的 Dockerfile，用于搭建本地测试环境。**于航和水歌负责**
+4. 编写用于测试服务器环境的 Dockerfile，用于搭建本地测试环境。**于航、水歌以及 Hanx 负责**
 
 5. 代码发布采用定期迭代方式，暂定**每周日 23:00 时**。
 
