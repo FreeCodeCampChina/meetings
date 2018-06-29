@@ -13,5 +13,7 @@ may be helpful.
 
 * 2018
 
-   * [CG February 5th video call](2018/FCC-China-02-05.md)
- 
+   * [FCC February 5th video call](2018/FCC-China-02-05.md)
+   * [FCC June 30th video call](2018/FCC-China-06-30.md)
+
+
