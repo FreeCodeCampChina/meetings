@@ -43,3 +43,19 @@ The meeting will be a Google Hangouts call.
 *None*
 
 ## Meeting notes
+
+1. 支付宝（捐助者的“Sponer List”）；@各城市社区负责人；
+
+2. 同步一份代码到码云，基于码云进行捐助；@晋剑 @水哥；
+
+3. 建立新分支，调研新的Codebase（Learn，Curriculum新的独立Repo）；@于航 @星星；
+
+4. Auth0调研（Quincy后面8月份帮忙整合）@水哥；
+
+5. 翻译工具：https://translate.google.com/toolkit；@翻译组；
+
+6. UI计划：DarkTheme整合，先调研；@星星；
+
+7. 加入Discord：https://discord.gg/HqM76uJ；@all；
+
+
